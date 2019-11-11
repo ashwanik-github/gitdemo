@@ -1,1 +1,1 @@
-#this is a conflict line 
+#here we are resolving the confict line.
